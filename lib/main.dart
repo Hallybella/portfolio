@@ -129,13 +129,7 @@ class _MyHomePageState extends State<MyHomePage> {
           //       Icons.toggle_on,
           //     ),
           //   ),
-          //   IconButton(
-          //     onPressed: () {},
-          //     icon: Icon(
-          //       Icons.toggle_on,
-          //     ),
-          //   )
-          // ],
+
           leading: Image.asset(
             "assets/images/logo.png",
             height: 25,
